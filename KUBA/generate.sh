@@ -1,0 +1,1 @@
+awk -F"\t" '{print $78,$145}'| grep $1 | awk -v facility=$1 'BEGIN {print facility;} NF==2 {print $2} {print $1}' | sort -u | awk '{gsub("\\+","\\\+");gsub("\\(","\\(");gsub("\\)","\\)");  print $0}'  |  awk 'BEGIN {list="";} {list=list"("$0")|"} END {print substr(list,1,length(list)-1)}' 

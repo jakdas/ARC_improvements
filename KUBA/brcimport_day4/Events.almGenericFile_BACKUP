@@ -1,0 +1,9 @@
+AdditionalPaymentID	Amount	ContractReference	EventDate	EventDescription	EventType	ImpairedInterestPortion	ImpairedPrincipalPortion	IsEYComputationRequired	Quantity	SellingPrice
+		R+CYA5YM_BINTG_00001_I65346	11/08/2015		Restructuring			YES	1	
+		R+CYA5YM_BINTG_00001_I65346	12/08/2015		AsOfBreakingDate			NO	1	
+		R+CYA6FP_BINTG_00001_I65346	11/08/2015		Restructuring			YES	1	
+		R+CYA6FP_BINTG_00001_I65346	12/08/2015		AsOfBreakingDate			NO	1	
+		RXCY8M7X_BINTG_00001_I65346	11/08/2015		Restructuring			YES	1	
+		RXCY8M7X_BINTG_00001_I65346	12/08/2015		AsOfBreakingDate			NO	1	
+		RXCY8M9B_BINTG_00001_I65346	11/08/2015		Restructuring			YES	1	
+		RXCY8M9B_BINTG_00001_I65346	12/08/2015		AsOfBreakingDate			NO	1	

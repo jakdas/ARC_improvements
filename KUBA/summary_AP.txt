@@ -1,0 +1,32 @@
+./brcimport_day1/NEC_AdditionalPayments.almGenericFile		AdditionalPaymentID	AdditionalPaymentType	Amount	ContractReference	Currency	IsEYComputationRequired	IsIncludedInAmortizedCost	PaymentDate	APMaturityDate	UnamortizedAP
+./brcimport_day1/NEC_AdditionalPayments.almGenericFile	 	Z2CNDQQ4	UpFrontFee	7500.00000000000	Contract_1		YES	YES	2015/04/01	2016/04/01	5547.05
+./brcimport_day1/NEC_AdditionalPayments.almGenericFile	 	F#CJ66HD	UpFrontFee	-6000.00000000000	Contract_2		YES	YES	2015/04/01	2016/04/01	-5877.57
+./brcimport_day1/NEC_AdditionalPayments.almGenericFile	 	F#CJ66MP	UpFrontFee	7500.00000000000	Contract_2		YES	YES	2015/04/01	2016/04/01	7354.90
+./brcimport_day1/NEC_AdditionalPayments.almGenericFile	 	U+CI33WL	Discount	10000.00	Contract_4	USD	YES	YES	2015/04/01	2018/04/06	13769.42
+./brcimport_day1/NEC_AdditionalPayments.almGenericFile	 	Z(CJITJV	UpFrontFee	7500.00000000000	Contract_5		YES	YES	2015/04/01	2016/04/01	6482.38
+./brcimport_day1/NEC_AdditionalPayments.almGenericFile	 	Z(CJITOR	UpFrontFee	-6000.00000000000	Contract_5		YES	YES	2015/04/01	2016/04/01	-5162.90
+./brcimport_day1/NEC_AdditionalPayments.almGenericFile	 	Z(CJISDX	UpFrontFee	-6000.00000000000	Contract_6		YES	YES	2015/04/01	2016/04/01	-5871.61
+./brcimport_day2/NEC_AdditionalPayments.almGenericFile		AdditionalPaymentID	AdditionalPaymentType	Amount	ContractReference	Currency	IsEYComputationRequired	IsIncludedInAmortizedCost	PaymentDate	APMaturityDate	UnamortizedAP
+./brcimport_day2/NEC_AdditionalPayments.almGenericFile	 	Z2CNDQQ4	UpFrontFee	7500.00000000000	Contract_1		YES	YES	2015/04/01	2016/04/01	5547.05
+./brcimport_day2/NEC_AdditionalPayments.almGenericFile	 	F#CJ66HD	UpFrontFee	-6000.00000000000	Contract_2		YES	YES	2015/04/01	2016/04/01	-5877.57
+./brcimport_day2/NEC_AdditionalPayments.almGenericFile	 	F#CJ66MP	UpFrontFee	7500.00000000000	Contract_2		YES	YES	2015/04/01	2016/04/01	7354.90
+./brcimport_day2/NEC_AdditionalPayments.almGenericFile	 	U+CI33WL	Discount	10000.00	Contract_4	USD	YES	YES	2015/04/01	2018/04/06	13769.42
+./brcimport_day2/NEC_AdditionalPayments.almGenericFile	 	Z(CJITJV	UpFrontFee	7500.00000000000	Contract_5		YES	YES	2015/04/01	2016/04/01	6482.38
+./brcimport_day2/NEC_AdditionalPayments.almGenericFile	 	Z(CJITOR	UpFrontFee	-6000.00000000000	Contract_5		YES	YES	2015/04/01	2016/04/01	-5162.90
+./brcimport_day2/NEC_AdditionalPayments.almGenericFile	 	Z(CJISDX	UpFrontFee	-6000.00000000000	Contract_6		YES	YES	2015/04/01	2016/04/01	-5871.61
+./brcimport_day3/NEC_AdditionalPayments.almGenericFile		AdditionalPaymentID	AdditionalPaymentType	Amount	ContractReference	Currency	IsEYComputationRequired	IsIncludedInAmortizedCost	PaymentDate	APMaturityDate	UnamortizedAP
+./brcimport_day3/NEC_AdditionalPayments.almGenericFile	 	Z2CNDQQ4	UpFrontFee	7500.00000000000	Contract_1		YES	YES	2015/04/01	2016/04/01	5547.05
+./brcimport_day3/NEC_AdditionalPayments.almGenericFile	 	F#CJ66HD	UpFrontFee	-6000.00000000000	Contract_2		YES	YES	2015/04/01	2016/04/01	-5877.57
+./brcimport_day3/NEC_AdditionalPayments.almGenericFile	 	F#CJ66MP	UpFrontFee	7500.00000000000	Contract_2		YES	YES	2015/04/01	2016/04/01	7354.90
+./brcimport_day3/NEC_AdditionalPayments.almGenericFile	 	U+CI33WL	Discount	10000.00	Contract_4	USD	YES	YES	2015/04/01	2018/04/06	13769.42
+./brcimport_day3/NEC_AdditionalPayments.almGenericFile	 	Z(CJITJV	UpFrontFee	7500.00000000000	Contract_5		YES	YES	2015/04/01	2016/04/01	6482.38
+./brcimport_day3/NEC_AdditionalPayments.almGenericFile	 	Z(CJITOR	UpFrontFee	-6000.00000000000	Contract_5		YES	YES	2015/04/01	2016/04/01	-5162.90
+./brcimport_day3/NEC_AdditionalPayments.almGenericFile	 	Z(CJISDX	UpFrontFee	-6000.00000000000	Contract_6		YES	YES	2015/04/01	2016/04/01	-5871.61
+./brcimport_day4/NEC_AdditionalPayments.almGenericFile		AdditionalPaymentID	AdditionalPaymentType	Amount	ContractReference	Currency	IsEYComputationRequired	IsIncludedInAmortizedCost	PaymentDate	APMaturityDate	UnamortizedAP
+./brcimport_day4/NEC_AdditionalPayments.almGenericFile	 	Z2CNDQQ4	UpFrontFee	7500.00000000000	Contract_1		YES	YES	2015/04/01	2016/04/01	5547.05
+./brcimport_day4/NEC_AdditionalPayments.almGenericFile	 	F#CJ66HD	UpFrontFee	-6000.00000000000	Contract_2		YES	YES	2015/04/01	2016/04/01	-5877.57
+./brcimport_day4/NEC_AdditionalPayments.almGenericFile	 	F#CJ66MP	UpFrontFee	7500.00000000000	Contract_2		YES	YES	2015/04/01	2016/04/01	7354.90
+./brcimport_day4/NEC_AdditionalPayments.almGenericFile	 	U+CI33WL	Discount	10000.00	Contract_4	USD	YES	YES	2015/04/01	2018/04/06	13769.42
+./brcimport_day4/NEC_AdditionalPayments.almGenericFile	 	Z(CJITJV	UpFrontFee	7500.00000000000	Contract_5		YES	YES	2015/04/01	2016/04/01	6482.38
+./brcimport_day4/NEC_AdditionalPayments.almGenericFile	 	Z(CJITOR	UpFrontFee	-6000.00000000000	Contract_5		YES	YES	2015/04/01	2016/04/01	-5162.90
+./brcimport_day4/NEC_AdditionalPayments.almGenericFile	 	Z(CJISDX	UpFrontFee	-6000.00000000000	Contract_6		YES	YES	2015/04/01	2016/04/01	-5871.61

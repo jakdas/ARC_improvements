@@ -1,0 +1,4 @@
+cp MOD_AdditionalPayments.almGenericFile AdditionalPayments.almGenericFile
+cp MOD_Cashflows.almGenericFile Cashflows.almGenericFile
+cp MOD_Contracts.almGenericFile Contracts.almGenericFile
+cp MOD_FacilityLimits.almGenericFile FacilityLimits.almGenericFile

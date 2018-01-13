@@ -1,0 +1,5 @@
+HOST:192.168.1.18,1433
+USER:sa
+PASSWORD:P@55w0rd
+DBNAME:arc_jakub
+

@@ -1,0 +1,8 @@
+AdditionalPaymentID	AdditionalPaymentType	AccrualRule	Amount	ContractReference	Currency	EOMRule	FXRateEIR	IsEYComputationRequired	IsIncludedInAmortizedCost	PaymentDate	OngoingFeeType	OngoingFeePhase	APMaturityDate	APBasis	APRate	Periodicity	SpecificDayRule	UnamortizedAP
+F#CJ66HD	UpFrontFee		-6000.00000000000	Contract_2				YES	YES	01/04/2015			01/04/2016					-5877.57
+F#CJ66MP	UpFrontFee		7500.00000000000	Contract_2				YES	YES	01/04/2015			01/04/2016					7354.90
+U+CI33WL	Discount		10000.00	Contract_4	USD			YES	YES	01/04/2015			06/04/2018					13769.42
+Z(CJISDX	UpFrontFee		-6000.00000000000	Contract_6				YES	YES	01/04/2015			01/04/2016					-5871.61
+Z2CNDQQ4	UpFrontFee		7500.00000000000	Contract_1				YES	YES	01/04/2015			01/04/2016					5547.05
+Z(CJITJV	UpFrontFee		7500.00000000000	Contract_5				YES	YES	01/04/2015			01/04/2016					6482.38
+Z(CJITOR	UpFrontFee		-6000.00000000000	Contract_5				YES	YES	01/04/2015			01/04/2016					-5162.90
